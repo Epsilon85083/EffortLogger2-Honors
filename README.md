@@ -1,6 +1,10 @@
 # EffortLogger2-Honors
 Extending the work my team did for the CSE 360 EffortLogger2 project to meet the honors project criteria.
 
+You will need to download MySQL and most likely the MySQL Workbench(I'm sure there are other programs, but that is what I used).
+Once that is done I have the commands to generate the database I've been working with in the "dump" folder.
+
+
 Instructions for getting Java to link with MySQL courtesy of ChatGPT
 Step 1: Download the MySQL JDBC Driver
 
